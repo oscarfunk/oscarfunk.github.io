@@ -1,0 +1,193 @@
+{
+  "shared": {
+    "site_url": "https://oscarfunk.github.io",
+    "work_stack": {
+      "akane": ["iOS", "Android", "Web", "GitHub Actions", "RAG", "WhatsApp", "Webpay · Flow · Getnet"],
+      "ott": ["Smart TV / CTV", "Apple TV", "Android TV", "Witbe", "Suitest", "Playwright", "Robot Framework"],
+      "automation": ["Playwright", "TypeScript", "GitHub Actions", "Self-hosted runners", "GraphQL", "Visual regression", "Claude Code"]
+    }
+  },
+  "en": {
+    "html_title": "Óscar Castro · QA Lead / QA Manager",
+    "meta_description": "Óscar Castro, QA Lead and QA Manager in Santiago, Chile. 15+ years leading QA teams and test automation for OTT streaming, credit reporting and consulting clients. ISTQB certified.",
+    "skip": "Skip to content",
+    "nav_label": "Sections",
+    "nav": {"work": "Work", "experience": "Experience", "skills": "Skills", "contact": "Contact"},
+    "lang_label": "Language",
+    "theme_to_dark": "Switch to dark theme",
+    "theme_to_light": "Switch to light theme",
+    "cta_cv": "Download CV (PDF)",
+    "email": "Email",
+    "email_noscript": "{user} at {domain}",
+    "work_heading": "Selected work",
+    "work_intro": "A few projects that show the range: building products, testing them on every screen, and automating the checks.",
+    "work": [
+      {
+        "id": "akane",
+        "kicker": "Akane Spa · 2021–2025",
+        "title": "A product ecosystem for a three-branch business",
+        "points": [
+          "Built the whole stack in house: web front end, an iOS app in production, an Android app, the backend and API, and an internal wiki.",
+          "Booking platform in production across three branches, with online payments (Webpay, Flow, Getnet) and WhatsApp, ManyChat and CRM integrations.",
+          "A RAG customer chatbot tested like a product: question banks and chat scripts checked retrieval accuracy and answers before each release."
+        ]
+      },
+      {
+        "id": "ott",
+        "kicker": "Accedo · 2015–2025",
+        "title": "OTT quality on every screen",
+        "points": [
+          "Tested streaming apps for FOX, HBO and Universal on Smart TVs and CTV, Android TV, Apple TV, set-top boxes, game consoles, mobile and web.",
+          "Led automation projects on Witbe, Suitest, Playwright and Robot Framework, the device-lab tooling built for Smart TV testing.",
+          "Ran a distributed team of 6 to 8 QA engineers across Chile, Brazil, Mexico and Europe, and set the QA standards used across projects."
+        ]
+      },
+      {
+        "id": "automation",
+        "kicker": "Globant · Nimble.LA · 2025–",
+        "title": "Test automation from roadmap to pipeline",
+        "points": [
+          "Grew a client's automated support suite from 70 to 183 scenarios in one month across a five-target browser and device matrix.",
+          "Built a three-layer GitHub Actions pipeline (health, smoke, regression) with a sanity gate, a verdict job and scheduled daily regression.",
+          "Built a Playwright reporting framework with visual regression for Nexstar Digital's video player: VAST/VMAP ads, playback, captions, ABR and GraphQL metadata."
+        ]
+      }
+    ],
+    "experience_heading": "Experience",
+    "earlier": "Earlier career",
+    "venture_heading": "Entrepreneurship",
+    "present": "Present",
+    "show_more": "Show {n} more",
+    "show_less": "Show less",
+    "skills_heading": "Skills",
+    "certs_heading": "Certifications",
+    "edu_heading": "Education",
+    "langs_heading": "Languages",
+    "contact_heading": "Contact",
+    "contact_note": "LinkedIn or email is the best way to reach me. I'm based in Santiago, Chile (UTC-3) and work remotely with teams across the Americas and Europe.",
+    "updated": "Last updated {date}",
+    "notfound_title": "Page not found"
+  },
+  "es": {
+    "html_title": "Óscar Castro · QA Lead / QA Manager",
+    "meta_description": "Óscar Castro, QA Lead y QA Manager en Santiago, Chile. Más de 15 años liderando equipos de QA y automatización de pruebas para clientes de OTT/streaming, credit reporting y consultoría. Certificado ISTQB.",
+    "skip": "Saltar al contenido",
+    "nav_label": "Secciones",
+    "nav": {"work": "Proyectos", "experience": "Experiencia", "skills": "Habilidades", "contact": "Contacto"},
+    "lang_label": "Idioma",
+    "theme_to_dark": "Cambiar a tema oscuro",
+    "theme_to_light": "Cambiar a tema claro",
+    "cta_cv": "Descargar CV (PDF)",
+    "email": "Correo",
+    "email_noscript": "{user} arroba {domain}",
+    "work_heading": "Trabajo destacado",
+    "work_intro": "Algunos proyectos que muestran el rango: construir productos, probarlos en todas las pantallas y automatizar las validaciones.",
+    "work": [
+      {
+        "id": "akane",
+        "kicker": "Akane Spa · 2021–2025",
+        "title": "Un ecosistema de producto para un negocio con tres sucursales",
+        "points": [
+          "Desarrollé todo el stack in house: front end web, una app iOS en producción, una app Android, el backend y la API, y una wiki interna.",
+          "Plataforma de reservas en producción para tres sucursales, con pagos online (Webpay, Flow, Getnet) e integraciones con WhatsApp, ManyChat y el CRM.",
+          "Un chatbot RAG para clientes probado como producto: bancos de preguntas y guiones de chat para validar la precisión de la recuperación y las respuestas antes de cada release."
+        ]
+      },
+      {
+        "id": "ott",
+        "kicker": "Accedo · 2015–2025",
+        "title": "Calidad OTT en todas las pantallas",
+        "points": [
+          "Probé apps de streaming para FOX, HBO y Universal en Smart TV y CTV, Android TV, Apple TV, set-top boxes, consolas, mobile y web.",
+          "Lideré proyectos de automatización con Witbe, Suitest, Playwright y Robot Framework, las herramientas de device lab pensadas para testing en Smart TV.",
+          "Dirigí un equipo distribuido de 6 a 8 QA engineers en Chile, Brasil, México y Europa, y definí los estándares de QA usados en todos los proyectos."
+        ]
+      },
+      {
+        "id": "automation",
+        "kicker": "Globant · Nimble.LA · 2025–",
+        "title": "Automatización de pruebas, del roadmap al pipeline",
+        "points": [
+          "Llevé la suite automatizada de soporte de un cliente de 70 a 183 escenarios en un mes, sobre una matriz de cinco navegadores y dispositivos.",
+          "Construí un pipeline de GitHub Actions en tres capas (health, smoke, regresión) con un gate de sanity, un job de veredicto y regresión diaria programada.",
+          "Construí un framework de reportes en Playwright con regresión visual para el reproductor de video de Nexstar Digital: anuncios VAST/VMAP, reproducción, subtítulos, ABR y metadata GraphQL."
+        ]
+      }
+    ],
+    "experience_heading": "Experiencia profesional",
+    "earlier": "Experiencia anterior",
+    "venture_heading": "Emprendimiento",
+    "present": "Actual",
+    "show_more": "Ver {n} más",
+    "show_less": "Ver menos",
+    "skills_heading": "Habilidades",
+    "certs_heading": "Certificaciones",
+    "edu_heading": "Educación",
+    "langs_heading": "Idiomas",
+    "contact_heading": "Contacto",
+    "contact_note": "La mejor forma de contactarme es LinkedIn o correo. Estoy en Santiago, Chile (UTC-3) y trabajo de forma remota con equipos de América y Europa.",
+    "updated": "Actualizado el {date}",
+    "notfound_title": "Página no encontrada"
+  },
+  "pt": {
+    "html_title": "Óscar Castro · QA Lead / QA Manager",
+    "meta_description": "Óscar Castro, QA Lead e QA Manager em Santiago, Chile. Mais de 15 anos liderando times de QA e automação de testes para clientes de OTT/streaming, credit reporting e consultoria. Certificado ISTQB.",
+    "skip": "Pular para o conteúdo",
+    "nav_label": "Seções",
+    "nav": {"work": "Projetos", "experience": "Experiência", "skills": "Competências", "contact": "Contato"},
+    "lang_label": "Idioma",
+    "theme_to_dark": "Mudar para tema escuro",
+    "theme_to_light": "Mudar para tema claro",
+    "cta_cv": "Baixar CV (PDF)",
+    "email": "E-mail",
+    "email_noscript": "{user} arroba {domain}",
+    "work_heading": "Trabalhos em destaque",
+    "work_intro": "Alguns projetos que mostram o alcance: construir produtos, testá-los em todas as telas e automatizar as validações.",
+    "work": [
+      {
+        "id": "akane",
+        "kicker": "Akane Spa · 2021–2025",
+        "title": "Um ecossistema de produto para um negócio com três unidades",
+        "points": [
+          "Desenvolvi todo o stack internamente: front-end web, um app iOS em produção, um app Android, o backend e a API, e uma wiki interna.",
+          "Plataforma de reservas em produção para três unidades, com pagamentos online (Webpay, Flow, Getnet) e integrações com WhatsApp, ManyChat e o CRM.",
+          "Um chatbot RAG para clientes testado como produto: bancos de perguntas e roteiros de conversa para validar a precisão da recuperação e as respostas antes de cada release."
+        ]
+      },
+      {
+        "id": "ott",
+        "kicker": "Accedo · 2015–2025",
+        "title": "Qualidade OTT em todas as telas",
+        "points": [
+          "Testei apps de streaming para FOX, HBO e Universal em Smart TVs e CTV, Android TV, Apple TV, set-top boxes, consoles, mobile e web.",
+          "Liderei projetos de automação com Witbe, Suitest, Playwright e Robot Framework, as ferramentas de device lab feitas para testes em Smart TV.",
+          "Conduzi um time distribuído de 6 a 8 QA engineers no Chile, Brasil, México e Europa, e defini os padrões de QA usados em todos os projetos."
+        ]
+      },
+      {
+        "id": "automation",
+        "kicker": "Globant · Nimble.LA · 2025–",
+        "title": "Automação de testes, do roadmap ao pipeline",
+        "points": [
+          "Levei a suíte automatizada de suporte de um cliente de 70 para 183 cenários em um mês, em uma matriz de cinco navegadores e dispositivos.",
+          "Construí um pipeline no GitHub Actions em três camadas (health, smoke, regressão) com gate de sanity, um job de veredito e regressão diária agendada.",
+          "Construí um framework de relatórios em Playwright com regressão visual para o player de vídeo da Nexstar Digital: anúncios VAST/VMAP, reprodução, legendas, ABR e metadados GraphQL."
+        ]
+      }
+    ],
+    "experience_heading": "Experiência profissional",
+    "earlier": "Experiência anterior",
+    "venture_heading": "Empreendedorismo",
+    "present": "Atual",
+    "show_more": "Ver mais {n}",
+    "show_less": "Ver menos",
+    "skills_heading": "Competências",
+    "certs_heading": "Certificações",
+    "edu_heading": "Formação acadêmica",
+    "langs_heading": "Idiomas",
+    "contact_heading": "Contato",
+    "contact_note": "A melhor forma de falar comigo é pelo LinkedIn ou e-mail. Estou em Santiago, Chile (UTC-3) e trabalho remotamente com times das Américas e da Europa.",
+    "updated": "Atualizado em {date}",
+    "notfound_title": "Página não encontrada"
+  }
+}

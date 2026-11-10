@@ -1,0 +1,656 @@
+{
+  "updated": "2026-10-27",
+  "version": "lead",
+  "profile": {
+    "name": "Óscar Castro",
+    "location": {
+      "en": "Santiago, Chile (UTC-3) · Remote",
+      "es": "Santiago, Chile · Remoto o híbrido",
+      "pt": "Santiago, Chile (UTC-3) · Remoto"
+    },
+    "email_user": "oscar.eduardo.castro",
+    "email_domain": "gmail.com",
+    "linkedin": "linkedin.com/in/oscar-castro",
+    "github": "github.com/oscarfunk"
+  },
+  "headline": {
+    "en": "QA Lead / QA Manager | 15+ Years | ISTQB Certified",
+    "es": "QA Lead / QA Manager | Más de 15 años | Certificado ISTQB",
+    "pt": "QA Lead / QA Manager | Mais de 15 anos | Certificado ISTQB"
+  },
+  "summary": {
+    "en": "QA leader with 15+ years building and running QA teams for OTT, credit reporting, and consulting clients. At Accedo I led QA delivery for a decade with a distributed team of 6 to 8 QA engineers across Chile, Brazil, Mexico, and Europe: hiring, mentoring, staffing engineers across client projects, setting QA standards, and supporting pre-sales. At Globant I am the primary client-facing lead on a test automation engagement for a global gaming company, owning strategy, roadmap, and leadership reporting. I also founded and ran a three-branch business, managing budgets, payroll, and people, not only test plans. ISTQB and Scrum Foundation certified.",
+    "es": "Líder de QA con más de 15 años formando y dirigiendo equipos de QA para clientes de OTT, credit reporting y consultoría. En Accedo lideré la entrega de QA durante una década con un equipo distribuido de 6 a 8 QAs en Chile, Brasil, México y Europa: contratación, mentoría, asignación de ingenieros a proyectos, estándares de QA y apoyo a preventa. En Globant soy el principal contacto con el cliente en un proyecto de automatización para una empresa global de videojuegos, a cargo de la estrategia, el roadmap y el reporte a liderazgo. Además fundé y dirigí un negocio con tres sucursales: presupuestos, remuneraciones y personas, no solo planes de prueba. Certificado ISTQB y Scrum Foundation.",
+    "pt": "Líder de QA com mais de 15 anos formando e conduzindo times de QA para clientes de OTT, credit reporting e consultoria. Na Accedo liderei a entrega de QA por uma década com um time distribuído de 6 a 8 QAs no Chile, Brasil, México e Europa: contratação, mentoria, alocação de engenheiros em projetos, padrões de QA e apoio a pré-vendas. Na Globant sou o principal ponto de contato com o cliente em um projeto de automação para uma empresa global de games, responsável pela estratégia, roadmap e reporte à liderança. Também fundei e dirigi uma empresa com três unidades: orçamento, folha de pagamento e pessoas, não só planos de teste. Certificado ISTQB e Scrum Foundation."
+  },
+  "roles": [
+    {
+      "id": "globant",
+      "section": "experience",
+      "company": "Globant",
+      "title": {
+        "en": "Senior Test Automation Engineer (L3)",
+        "es": "Senior Test Automation Engineer (L3)",
+        "pt": "Senior Test Automation Engineer (L3)"
+      },
+      "note": null,
+      "where": {
+        "en": "Santiago, Chile · Hybrid",
+        "es": "Santiago, Chile · Híbrido",
+        "pt": "Santiago, Chile · Híbrido"
+      },
+      "start": "2025-11",
+      "end": null,
+      "bullets": [
+        {
+          "id": "globant-1",
+          "featured": true,
+          "en": "Primary point of contact for a global gaming client's test automation engagement (player support portal); own the strategy, roadmap, and bi-weekly checkpoints with client leadership.",
+          "es": "Punto de contacto principal en un proyecto de automatización para un cliente global de videojuegos (portal de soporte a jugadores); responsable de la estrategia, el roadmap y los checkpoints quincenales con el liderazgo del cliente.",
+          "pt": "Principal ponto de contato no projeto de automação de testes de um cliente global de games (portal de suporte a jogadores); responsável pela estratégia, roadmap e checkpoints quinzenais com a liderança do cliente."
+        },
+        {
+          "id": "globant-11",
+          "featured": true,
+          "en": "Defined the QA process for production changes: Gherkin intent and YAML test steps written in parallel with development, feature-branch testing in ephemeral environments, and full regression before release.",
+          "es": "Definí el proceso de QA para cambios a producción: intención en Gherkin y pasos de prueba en YAML escritos en paralelo al desarrollo, testing de feature branches en ambientes efímeros y regresión completa antes de cada release.",
+          "pt": "Defini o processo de QA para mudanças em produção: intenção em Gherkin e passos de teste em YAML escritos em paralelo ao desenvolvimento, testes de feature branches em ambientes efêmeros e regressão completa antes de cada release."
+        },
+        {
+          "id": "globant-12",
+          "featured": true,
+          "en": "Report quality metrics to client leadership at each checkpoint (scenario coverage, ready vs. active suites, new defects found) as input for release decisions.",
+          "es": "Reporto métricas de calidad al liderazgo del cliente en cada checkpoint (cobertura de escenarios, suites listas vs. activas, nuevos defectos encontrados) como insumo para las decisiones de release.",
+          "pt": "Reporto métricas de qualidade à liderança do cliente em cada checkpoint (cobertura de cenários, suítes prontas vs. ativas, novos defeitos encontrados) como insumo para as decisões de release."
+        },
+        {
+          "id": "globant-13",
+          "featured": true,
+          "en": "Reshaped an eight-track automation plan into a focused three-workstream roadmap the team could deliver, after stakeholder feedback.",
+          "es": "Reformulé un plan de automatización de ocho frentes en un roadmap enfocado de tres líneas de trabajo que el equipo pudiera entregar, a partir del feedback de los stakeholders.",
+          "pt": "Reformulei um plano de automação de oito frentes em um roadmap focado de três linhas de trabalho que o time conseguisse entregar, a partir do feedback dos stakeholders."
+        },
+        {
+          "id": "globant-10",
+          "featured": false,
+          "en": "Apply AI coding agents (Claude Code, Cursor, GitHub Copilot) across the test lifecycle: drafting Playwright tests from Gherkin intent and YAML steps, debugging failing runs, and troubleshooting environment issues.",
+          "es": "Uso agentes de IA para código (Claude Code, Cursor, GitHub Copilot) en todo el ciclo de testing: redacción de tests Playwright a partir de intención en Gherkin y pasos en YAML, debugging de ejecuciones fallidas y troubleshooting de ambientes.",
+          "pt": "Uso agentes de IA para código (Claude Code, Cursor, GitHub Copilot) em todo o ciclo de testes: criação de testes Playwright a partir de intenção em Gherkin e passos em YAML, debugging de execuções com falha e troubleshooting de ambientes."
+        },
+        {
+          "id": "globant-2",
+          "featured": false,
+          "en": "Grew automated support-suite coverage from 70 to 183 scenarios in one month across a 5-target browser and device matrix.",
+          "es": "Aumenté la cobertura automatizada de las suites de soporte de 70 a 183 escenarios en un mes, sobre una matriz de 5 navegadores y dispositivos.",
+          "pt": "Aumentei a cobertura automatizada das suítes de suporte de 70 para 183 cenários em um mês, em uma matriz de 5 navegadores e dispositivos."
+        },
+        {
+          "id": "globant-3",
+          "featured": false,
+          "en": "Built a three-layer GitHub Actions pipeline (health, smoke, regression) with a @sanity smoke gate, a verdict job that reports where a run stopped, and scheduled daily regression.",
+          "es": "Construí un pipeline de GitHub Actions en tres capas (health, smoke, regression) con un gate @sanity, un job de veredicto que indica en qué capa se detuvo la ejecución y regresión diaria programada.",
+          "pt": "Construí um pipeline de GitHub Actions em três camadas (health, smoke, regression) com gate de smoke @sanity, um job de veredito que indica em qual camada a execução parou e regressão diária agendada."
+        },
+        {
+          "id": "globant-14",
+          "featured": true,
+          "en": "Set up the CI/CD environments behind the test suites: GitHub Actions workflows, self-hosted runners, and QA/staging environments for automated runs.",
+          "es": "Configuré los ambientes de CI/CD de las suites de prueba: workflows de GitHub Actions, runners self-hosted y ambientes de QA/staging para las ejecuciones automatizadas.",
+          "pt": "Configurei os ambientes de CI/CD das suítes de teste: workflows do GitHub Actions, runners self-hosted e ambientes de QA/staging para as execuções automatizadas."
+        },
+        {
+          "id": "globant-6",
+          "featured": false,
+          "en": "Design and maintain Playwright/TypeScript frameworks with AI-assisted test creation (Claude Code, GitHub Copilot) to reduce authoring and maintenance effort.",
+          "es": "Diseño y mantengo frameworks en Playwright/TypeScript con creación de tests asistida por IA (Claude Code, GitHub Copilot) para reducir el esfuerzo de escritura y mantenimiento.",
+          "pt": "Projeto e mantenho frameworks em Playwright/TypeScript com criação de testes assistida por IA (Claude Code, GitHub Copilot), reduzindo o esforço de escrita e manutenção."
+        },
+        {
+          "id": "globant-7",
+          "featured": false,
+          "en": "Designed a backend test automation strategy for a client GraphQL service (about 10,700 lines, 50 to 60 integrations) under full network isolation, using a self-hosted CI runner.",
+          "es": "Diseñé la estrategia de automatización backend para un servicio GraphQL de un cliente (unas 10.700 líneas, 50 a 60 integraciones) en aislamiento de red total, con un runner de CI self-hosted.",
+          "pt": "Desenhei a estratégia de automação de testes backend para um serviço GraphQL de cliente (cerca de 10.700 linhas, 50 a 60 integrações) em isolamento total de rede, com runner de CI self-hosted."
+        },
+        {
+          "id": "globant-8",
+          "featured": true,
+          "en": "Mentor TAEs and QC analysts, support the QC-to-TAE transition program, and define team automation standards for framework structure, code review, and reporting.",
+          "es": "Mentor de TAEs y analistas QC, apoyo al programa de transición QC a TAE y definición de estándares de automatización del equipo (estructura de frameworks, code review y reportes).",
+          "pt": "Mentoria de TAEs e analistas de QC, apoio ao programa de transição de QC para TAE e definição de padrões de automação do time (estrutura de frameworks, code review e relatórios)."
+        },
+        {
+          "id": "globant-9",
+          "featured": false,
+          "en": "Contribute to client proposals and technical pre-sales: scope, estimates, and testing approach.",
+          "es": "Participo en propuestas y preventa técnica: alcance, estimaciones y enfoque de testing.",
+          "pt": "Participo de propostas e pré-vendas técnicas: escopo, estimativas e abordagem de testes."
+        }
+      ]
+    },
+    {
+      "id": "nimble",
+      "section": "experience",
+      "company": "Nimble.LA",
+      "title": {
+        "en": "QA Automation Engineer (Contract)",
+        "es": "QA Automation Engineer (Contrato)",
+        "pt": "QA Automation Engineer (Contrato)"
+      },
+      "note": null,
+      "where": {
+        "en": "Remote",
+        "es": "Remoto",
+        "pt": "Remoto"
+      },
+      "start": "2026-01",
+      "end": null,
+      "bullets": [
+        {
+          "id": "nimble-4",
+          "featured": true,
+          "en": "Nexstar Digital (The Hill OVP video player): built a Playwright reporting framework with visual regression covering VAST/VMAP ad insertion, playback, closed captions, ABR, and GraphQL metadata.",
+          "es": "Nexstar Digital (video player OVP de The Hill): construí un framework de reportes en Playwright con visual regression para inserción de anuncios VAST/VMAP, playback, closed captions, ABR y metadata GraphQL.",
+          "pt": "Nexstar Digital (player de vídeo OVP do The Hill): construí um framework de relatórios em Playwright com regressão visual cobrindo inserção de anúncios VAST/VMAP, playback, legendas (closed captions), ABR e metadados GraphQL."
+        },
+        {
+          "id": "nimble-5",
+          "featured": false,
+          "en": "Nexstar Digital: led UAT and regression for the OVP release, validating ad KVPs, click-to-play, hardwall suppression, and entitlements across two staging environments.",
+          "es": "Nexstar Digital: lideré UAT y regresión del release del OVP, validando ad KVPs, click-to-play, supresión de hardwall y entitlements en dos ambientes de staging.",
+          "pt": "Nexstar Digital: liderei UAT e regressão do release do OVP, validando ad KVPs, click-to-play, supressão de hardwall e entitlements em dois ambientes de staging."
+        },
+        {
+          "id": "nimble-1",
+          "featured": false,
+          "en": "Build and maintain Playwright suites for key user flows on web and WordPress sites, following design specs.",
+          "es": "Construyo y mantengo suites en Playwright para los flujos clave de sitios web y WordPress, según especificaciones de diseño.",
+          "pt": "Construo e mantenho suítes em Playwright para os fluxos principais de sites web e WordPress, seguindo especificações de design."
+        },
+        {
+          "id": "nimble-2",
+          "featured": false,
+          "en": "Run manual, exploratory, and regression testing across releases and environments; document defects with clear reproduction steps.",
+          "es": "Ejecuto testing manual, exploratorio y de regresión entre releases y ambientes; documento defectos con pasos de reproducción claros.",
+          "pt": "Executo testes manuais, exploratórios e de regressão entre releases e ambientes; documento defeitos com passos de reprodução claros."
+        },
+        {
+          "id": "nimble-3",
+          "featured": true,
+          "en": "Review test code in pull requests and share testing practices with the development team.",
+          "es": "Reviso código de tests en pull requests y comparto buenas prácticas de testing con el equipo de desarrollo.",
+          "pt": "Reviso código de testes em pull requests e compartilho boas práticas de testes com o time de desenvolvimento."
+        }
+      ]
+    },
+    {
+      "id": "accedo",
+      "section": "experience",
+      "company": "Accedo",
+      "title": {
+        "en": "Lead Software Quality Assurance Engineer",
+        "es": "Lead Software Quality Assurance Engineer",
+        "pt": "Lead Software Quality Assurance Engineer"
+      },
+      "note": {
+        "en": "OTT and video UX for broadcasters, media companies, and TV operators",
+        "es": "OTT y video UX para broadcasters, empresas de medios y operadores de TV",
+        "pt": "OTT e UX de vídeo para broadcasters, empresas de mídia e operadoras de TV"
+      },
+      "where": {
+        "en": "Santiago, Chile",
+        "es": "Santiago, Chile",
+        "pt": "Santiago, Chile"
+      },
+      "start": "2015-12",
+      "end": "2025-11",
+      "bullets": [
+        {
+          "id": "accedo-1",
+          "featured": true,
+          "en": "Tested OTT streaming apps for clients including FOX, HBO, and Universal across the full device range: Smart TVs and CTV, Android TV, Apple TV, set-top boxes, game consoles, iPhone and Android mobile, PC, and web.",
+          "es": "Testing de apps OTT de streaming para clientes como FOX, HBO y Universal en todo el rango de dispositivos: Smart TVs y CTV, Android TV, Apple TV, set-top boxes, consolas, iPhone y Android, PC y web.",
+          "pt": "Testei apps OTT de streaming para clientes como FOX, HBO e Universal em toda a gama de dispositivos: Smart TVs e CTV, Android TV, Apple TV, set-top boxes, consoles, iPhone e Android, PC e web."
+        },
+        {
+          "id": "accedo-2",
+          "featured": false,
+          "en": "Led and built automation for OTT platforms with Playwright, Suitest, and Witbe, the device-lab tooling purpose-built for Smart TV testing.",
+          "es": "Lideré y construí automatización para plataformas OTT con Playwright, Suitest y Witbe, herramientas de device lab diseñadas para testing de Smart TV.",
+          "pt": "Liderei e construí automação para plataformas OTT com Playwright, Suitest e Witbe, ferramentas de device lab feitas para testes de Smart TV."
+        },
+        {
+          "id": "accedo-3",
+          "featured": true,
+          "en": "Led and mentored a distributed team of 6 to 8 QA engineers across Chile, Brazil, Mexico, and Europe; interviewed candidates and shaped hiring for the QA practice.",
+          "es": "Lideré y mentoricé un equipo distribuido de 6 a 8 ingenieros QA en Chile, Brasil, México y Europa; entrevisté candidatos y participé en la contratación del área de QA.",
+          "pt": "Liderei e fiz mentoria de um time distribuído de 6 a 8 engenheiros de QA no Chile, Brasil, México e Europa; entrevistei candidatos e participei da contratação da área de QA."
+        },
+        {
+          "id": "accedo-10",
+          "featured": true,
+          "en": "Led and supervised OTT test automation projects built on Witbe, Suitest, Playwright, and Robot Framework, guiding the engineers on each team.",
+          "es": "Lideré y supervisé proyectos de automatización de pruebas OTT con Witbe, Suitest, Playwright y Robot Framework, guiando a los ingenieros de cada equipo.",
+          "pt": "Liderei e supervisionei projetos de automação de testes OTT com Witbe, Suitest, Playwright e Robot Framework, orientando os engenheiros de cada time."
+        },
+        {
+          "id": "accedo-4",
+          "featured": true,
+          "en": "Assigned QA engineers across concurrent client projects by availability and skills, and owned the quality of delivered software.",
+          "es": "Asigné ingenieros QA a proyectos simultáneos según disponibilidad y habilidades, y fui responsable de la calidad del software entregado.",
+          "pt": "Aloquei engenheiros de QA em projetos simultâneos de clientes conforme disponibilidade e competências, e respondi pela qualidade do software entregue."
+        },
+        {
+          "id": "accedo-5",
+          "featured": true,
+          "en": "Established QA processes, standards, and workflows adopted across projects and teams.",
+          "es": "Definí procesos, estándares y flujos de trabajo de QA adoptados en todos los proyectos y equipos.",
+          "pt": "Defini processos, padrões e fluxos de QA adotados em todos os projetos e times."
+        },
+        {
+          "id": "accedo-6",
+          "featured": false,
+          "en": "Provided UAT support and cross-vendor compatibility testing for Smart TV apps to secure broad device coverage.",
+          "es": "Soporte de UAT y testing de compatibilidad entre fabricantes de Smart TV para asegurar amplia cobertura de dispositivos.",
+          "pt": "Suporte a UAT e testes de compatibilidade entre fabricantes de Smart TV para garantir ampla cobertura de dispositivos."
+        },
+        {
+          "id": "accedo-7",
+          "featured": true,
+          "en": "Supported sales in winning new automation accounts with technical expertise; contributed to project kickoffs and workshops.",
+          "es": "Apoyé a ventas en la captación de nuevas cuentas de automatización con conocimiento técnico; participé en kickoffs y workshops de proyectos.",
+          "pt": "Apoiei o time comercial na conquista de novas contas de automação com conhecimento técnico; participei de kickoffs e workshops de projetos."
+        },
+        {
+          "id": "accedo-8",
+          "featured": true,
+          "en": "Wrote test plans from design and system requirements, ran API-level testing via web services, and reported results to stakeholders.",
+          "es": "Elaboré planes de prueba a partir de requerimientos de diseño y sistema, ejecuté testing de APIs vía web services y reporté resultados a stakeholders.",
+          "pt": "Elaborei planos de teste a partir de requisitos de design e sistema, executei testes de API via web services e reportei resultados aos stakeholders."
+        },
+        {
+          "id": "accedo-9",
+          "featured": false,
+          "en": "Managed defect tracking in JIRA from triage to closure.",
+          "es": "Gestioné el seguimiento de defectos en JIRA desde el triage hasta el cierre.",
+          "pt": "Gerenciei o acompanhamento de defeitos no JIRA, da triagem ao fechamento."
+        }
+      ]
+    },
+    {
+      "id": "experian",
+      "section": "experience",
+      "company": "Experian",
+      "title": {
+        "en": "Software Quality Assurance Analyst",
+        "es": "Software Quality Assurance Analyst",
+        "pt": "Software Quality Assurance Analyst"
+      },
+      "note": {
+        "en": "US credit bureau",
+        "es": "Credit bureau de Estados Unidos",
+        "pt": "Bureau de crédito dos EUA"
+      },
+      "where": {
+        "en": "Santiago, Chile",
+        "es": "Santiago, Chile",
+        "pt": "Santiago, Chile"
+      },
+      "start": "2011-07",
+      "end": "2015-12",
+      "bullets": [
+        {
+          "id": "experian-1",
+          "featured": true,
+          "en": "Maintained and extended a Robot Framework suite in a Jenkins CI pipeline, writing custom Python libraries to expand coverage.",
+          "es": "Mantuve y amplié una suite de Robot Framework en un pipeline de CI en Jenkins, desarrollando librerías propias en Python para extender la cobertura.",
+          "pt": "Mantive e ampliei uma suíte de Robot Framework em pipeline de CI no Jenkins, desenvolvendo bibliotecas Python próprias para expandir a cobertura."
+        },
+        {
+          "id": "experian-7",
+          "featured": true,
+          "en": "Built and maintained the Jenkins pipelines, build agents, and QA/staging environments the automated suites ran on.",
+          "es": "Construí y mantuve los pipelines de Jenkins, los agentes de build y los ambientes de QA/staging donde corrían las suites automatizadas.",
+          "pt": "Construí e mantive os pipelines do Jenkins, os agentes de build e os ambientes de QA/staging onde as suítes automatizadas rodavam."
+        },
+        {
+          "id": "experian-2",
+          "featured": false,
+          "en": "Validated US credit report and dispute-resolution workflows under FCRA compliance.",
+          "es": "Validé flujos de reportes de crédito y resolución de disputas bajo cumplimiento de la normativa FCRA.",
+          "pt": "Validei fluxos de relatórios de crédito e de resolução de disputas em conformidade com a FCRA."
+        },
+        {
+          "id": "experian-3",
+          "featured": false,
+          "en": "Tested desktop apps, IVR, web, batch processes, mainframe, and backend APIs; validated credit data across systems with SQL.",
+          "es": "Testing de aplicaciones desktop, IVR, web, procesos batch, mainframe y APIs backend; validación de datos de crédito entre sistemas con SQL.",
+          "pt": "Testei aplicações desktop, URA (IVR), web, processos batch, mainframe e APIs backend; validei dados de crédito entre sistemas com SQL."
+        },
+        {
+          "id": "experian-4",
+          "featured": false,
+          "en": "Planned and executed test cases and regression cycles in Agile sprints; triaged and prioritized defects.",
+          "es": "Planifiqué y ejecuté casos de prueba y ciclos de regresión en sprints Agile; triage y priorización de defectos.",
+          "pt": "Planejei e executei casos de teste e ciclos de regressão em sprints Agile; fiz triagem e priorização de defeitos."
+        },
+        {
+          "id": "experian-6",
+          "featured": false,
+          "en": "Analyzed requirements, authored test design documents, and joined test strategy sessions to set scope and timelines; reviewed test cases and results to close coverage gaps.",
+          "es": "Analicé requerimientos, redacté documentos de diseño de pruebas y participé en sesiones de estrategia de testing para definir alcance y plazos; revisé casos y resultados para cerrar brechas de cobertura.",
+          "pt": "Analisei requisitos, redigi documentos de design de testes e participei de sessões de estratégia de testes para definir escopo e prazos; revisei casos e resultados para fechar lacunas de cobertura."
+        },
+        {
+          "id": "experian-5",
+          "featured": true,
+          "en": "Onboarded new QA analysts and shared domain knowledge to speed up their ramp-up.",
+          "es": "Onboarding de nuevos analistas QA, compartiendo conocimiento del dominio para acelerar su adaptación.",
+          "pt": "Fiz o onboarding de novos analistas de QA e compartilhei conhecimento do domínio para acelerar a adaptação."
+        }
+      ]
+    },
+    {
+      "id": "akane",
+      "section": "venture",
+      "company": "Akane Spa",
+      "title": {
+        "en": "Founder & Owner",
+        "es": "Fundador y Dueño",
+        "pt": "Fundador e Sócio-proprietário"
+      },
+      "note": {
+        "en": "operations led by a business partner since late 2025",
+        "es": "operación a cargo de una socia desde fines de 2025",
+        "pt": "operação conduzida por uma sócia desde o fim de 2025"
+      },
+      "where": {
+        "en": "Santiago, Chile",
+        "es": "Santiago, Chile",
+        "pt": "Santiago, Chile"
+      },
+      "start": "2021-12",
+      "end": "2025-11",
+      "bullets": [
+        {
+          "id": "akane-1",
+          "featured": true,
+          "en": "Built the business's full product ecosystem in house: web front end, iOS app in production, Android app, backend and API, booking engine, payment gateway, transactional email, and an internal wiki.",
+          "es": "Desarrollé in house todo el ecosistema de producto del negocio: frontend web, app iOS en producción, app Android, backend y API, motor de reservas, pasarela de pago, correos transaccionales y wiki interna.",
+          "pt": "Desenvolvi internamente todo o ecossistema de produto da empresa: front-end web, app iOS em produção, app Android, backend e API, motor de reservas, gateway de pagamento, e-mails transacionais e wiki interna."
+        },
+        {
+          "id": "akane-8",
+          "featured": true,
+          "en": "Set up CI/CD with GitHub Actions for the apps: build and deploy pipelines, runners, and staging and production environments.",
+          "es": "Configuré CI/CD con GitHub Actions para las apps: pipelines de build y deploy, runners y ambientes de staging y producción.",
+          "pt": "Configurei CI/CD com GitHub Actions para os apps: pipelines de build e deploy, runners e ambientes de staging e produção."
+        },
+        {
+          "id": "akane-2",
+          "featured": true,
+          "en": "Founded and ran a wellness business with three branches: staffing, payroll, finance, suppliers, and service standards.",
+          "es": "Fundé y dirigí un negocio de bienestar con tres sucursales: personal, remuneraciones, finanzas, proveedores y estándares de servicio.",
+          "pt": "Fundei e dirigi uma empresa de bem-estar com três unidades: equipe, folha de pagamento, finanças, fornecedores e padrões de serviço."
+        },
+        {
+          "id": "akane-4",
+          "featured": false,
+          "en": "Built and operated a RAG-based customer chatbot in production, integrated with the booking engine, CRM, and messaging channels (WhatsApp, ManyChat).",
+          "es": "Desarrollé y operé en producción un chatbot RAG para clientes finales, integrado con el motor de reservas, el CRM y los canales de mensajería (WhatsApp, ManyChat).",
+          "pt": "Desenvolvi e operei em produção um chatbot RAG para clientes finais, integrado ao motor de reservas, ao CRM e aos canais de mensagens (WhatsApp, ManyChat)."
+        },
+        {
+          "id": "akane-5",
+          "featured": false,
+          "en": "Tested the chatbot like a product: built question banks and chat scripts to evaluate retrieval accuracy and generated answers before each release.",
+          "es": "Testeé el chatbot como producto: preparé bancos de preguntas y guiones de chat para evaluar la precisión del retrieval y las respuestas generadas antes de cada release.",
+          "pt": "Testei o chatbot como produto: criei bancos de perguntas e roteiros de conversa para avaliar a precisão do retrieval e as respostas geradas antes de cada release."
+        },
+        {
+          "id": "akane-6",
+          "featured": false,
+          "en": "Automated customer communication on the backend: WhatsApp appointment reminders, review requests, and CRM deduplication across channels.",
+          "es": "Automaticé la comunicación con clientes desde el backend: recordatorios de cita por WhatsApp, solicitudes de reseña y deduplicación del CRM entre canales.",
+          "pt": "Automatizei a comunicação com clientes no backend: lembretes de agendamento por WhatsApp, pedidos de avaliação e deduplicação do CRM entre canais."
+        },
+        {
+          "id": "akane-3",
+          "featured": false,
+          "en": "Ran Google Ads and Meta Ads acquisition campaigns and managed the brand's social media.",
+          "es": "Gestioné campañas de captación en Google Ads y Meta Ads y las redes sociales de la marca.",
+          "pt": "Gerenciei campanhas de aquisição no Google Ads e Meta Ads e as redes sociais da marca."
+        },
+        {
+          "id": "akane-7",
+          "featured": false,
+          "en": "Built the booking platform running in production: reservations across three branches, online payments (Webpay, Flow, Getnet), and third-party integrations with WhatsApp, ManyChat, and the CRM.",
+          "es": "Desarrollé la plataforma de reservas en producción: reservas en tres sucursales, pagos en línea (Webpay, Flow, Getnet) e integraciones con terceros (WhatsApp, ManyChat y el CRM).",
+          "pt": "Desenvolvi a plataforma de reservas em produção: reservas em três unidades, pagamentos online (Webpay, Flow, Getnet) e integrações com terceiros (WhatsApp, ManyChat e o CRM)."
+        }
+      ]
+    }
+  ],
+  "earlier": {
+    "en": "Experian, Audit & Risk Administrator Senior (2008 to 2011) and Consumer Services Associate and SME trainer (2007 to 2008): compliance audits, control reviews, and statistical reporting for a US credit bureau.",
+    "es": "Experian, Audit & Risk Administrator Senior (2008 a 2011) y Consumer Services Associate y SME trainer (2007 a 2008): auditorías de cumplimiento, revisiones de control y reportes estadísticos para un credit bureau de EE.UU.",
+    "pt": "Experian, Audit & Risk Administrator Senior (2008 a 2011) e Consumer Services Associate e SME trainer (2007 a 2008): auditorias de conformidade, revisões de controle e relatórios estatísticos para um bureau de crédito dos EUA."
+  },
+  "skills": [
+    {
+      "id": "methods",
+      "label": {
+        "en": "Methods",
+        "es": "Metodologías",
+        "pt": "Metodologias"
+      },
+      "items": [
+        "Agile/Scrum",
+        "Shift-Left",
+        "TDD",
+        "BDD",
+        "ATDD",
+        "Test strategy",
+        "UAT",
+        "Regression",
+        "Exploratory testing"
+      ]
+    },
+    {
+      "id": "automation",
+      "label": {
+        "en": "Test automation",
+        "es": "Automatización",
+        "pt": "Automação de testes"
+      },
+      "items": [
+        "Playwright",
+        "Selenium",
+        "Robot Framework",
+        "Appium",
+        "WebdriverIO",
+        "Cucumber",
+        "BDD/Gherkin",
+        "Visual regression"
+      ]
+    },
+    {
+      "id": "cicd",
+      "label": {
+        "en": "CI/CD & tools",
+        "es": "CI/CD y herramientas",
+        "pt": "CI/CD e ferramentas"
+      },
+      "items": [
+        "GitHub Actions",
+        "Jenkins",
+        "Build agents",
+        "Self-hosted runners",
+        "Git",
+        "JIRA",
+        "Confluence",
+        "TestRail"
+      ]
+    },
+    {
+      "id": "ott",
+      "label": {
+        "en": "OTT & devices",
+        "es": "OTT y dispositivos",
+        "pt": "OTT e dispositivos"
+      },
+      "items": [
+        "Smart TV / CTV",
+        "Android TV",
+        "Apple TV",
+        "Roku",
+        "Set-top boxes",
+        "Game consoles",
+        "iOS / Android",
+        "Suitest",
+        "Witbe",
+        "ABR",
+        "VAST/VMAP",
+        "Closed captions",
+        "Entitlements"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": {
+        "en": "AI-assisted QA",
+        "es": "QA asistido por IA",
+        "pt": "QA assistido por IA"
+      },
+      "items": [
+        "Claude Code",
+        "GitHub Copilot",
+        "Cursor",
+        "ChatGPT",
+        "AI coding agents",
+        "Agentic workflows",
+        "LLM integration",
+        "RAG",
+        "RAG/chatbot testing",
+        "Prompt engineering"
+      ]
+    },
+    {
+      "id": "api",
+      "label": {
+        "en": "API & network",
+        "es": "API y red",
+        "pt": "API e rede"
+      },
+      "items": [
+        "REST",
+        "GraphQL",
+        "Web services",
+        "SoapUI",
+        "Charles Proxy",
+        "Wireshark"
+      ]
+    },
+    {
+      "id": "languages",
+      "label": {
+        "en": "Programming",
+        "es": "Lenguajes",
+        "pt": "Linguagens"
+      },
+      "items": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "id": "mgmt",
+      "label": {
+        "en": "QA management",
+        "es": "Gestión de QA",
+        "pt": "Gestão de QA"
+      },
+      "items": [
+        "QA strategy",
+        "Test planning",
+        "Regression process",
+        "Quality metrics",
+        "Release readiness",
+        "Defect triage",
+        "Hiring and mentoring",
+        "Process improvement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "en": "Business Administration, Esucomex (executive degree program for working professionals)",
+      "es": "Ingeniero de Ejecución en Adm. de Empresas, Esucomex (programa PET para trabajadores)",
+      "pt": "Administração de Empresas, Esucomex (programa executivo para profissionais em atividade)",
+      "years": "2012 - 2013"
+    },
+    {
+      "en": "Sound Engineering, Universidad Tecnológica Vicente Pérez Rosales",
+      "es": "Ingeniería en Sonido, Universidad Tecnológica Vicente Pérez Rosales",
+      "pt": "Engenharia de Som, Universidad Tecnológica Vicente Pérez Rosales",
+      "years": "2001 - 2003"
+    }
+  ],
+  "certs": [
+    {
+      "en": "Claude Certified Developer, Foundations, Anthropic (exam scheduled for Nov 2026)",
+      "es": "Claude Certified Developer, Foundations, Anthropic (examen agendado para nov 2026)",
+      "pt": "Claude Certified Developer, Foundations, Anthropic (exame agendado para nov 2026)",
+      "year": ""
+    },
+    {
+      "en": "ISTQB Certified Tester Foundation Level (CTFL), iSQI",
+      "es": "ISTQB Certified Tester Foundation Level (CTFL), iSQI",
+      "pt": "ISTQB Certified Tester Foundation Level (CTFL), iSQI",
+      "year": "2020"
+    },
+    {
+      "en": "Scrum Foundation Professional Certificate (SFPC), CertiProf",
+      "es": "Scrum Foundation Professional Certificate (SFPC), CertiProf",
+      "pt": "Scrum Foundation Professional Certificate (SFPC), CertiProf",
+      "year": "2020"
+    },
+    {
+      "en": "TOEIC Listening & Reading: 885 / 990",
+      "es": "TOEIC Listening & Reading: 885 / 990",
+      "pt": "TOEIC Listening & Reading: 885 / 990",
+      "year": "2020"
+    },
+    {
+      "en": "Playwright JS/TS Automation Testing from Scratch & Framework, Udemy",
+      "es": "Playwright JS/TS Automation Testing from Scratch & Framework, Udemy",
+      "pt": "Playwright JS/TS Automation Testing from Scratch & Framework, Udemy",
+      "year": "2026"
+    }
+  ],
+  "spoken": [
+    {
+      "en": "Spanish (native)",
+      "es": "Español (nativo)",
+      "pt": "Espanhol (nativo)"
+    },
+    {
+      "en": "English (fluent)",
+      "es": "Inglés (fluido)",
+      "pt": "Inglês (fluente)"
+    },
+    {
+      "en": "Portuguese (professional)",
+      "es": "Portugués (profesional)",
+      "pt": "Português (profissional)"
+    },
+    {
+      "en": "Japanese (intermediate)",
+      "es": "Japonés (intermedio)",
+      "pt": "Japonês (intermediário)"
+    }
+  ]
+}

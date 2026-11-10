@@ -1,0 +1,4 @@
+.DS_Store
+# Raw Living CV exports hold private fields (phone, notes). Only content/cv.json is committed.
+master.json
+raw/
